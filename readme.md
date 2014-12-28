@@ -1,4 +1,5 @@
 This is a very basic example of CRUD in Node.js and mySQL.
 
-Need to npm install to install all the required modules.
-Do npm start.
+Just do nmp to install all the libs
+
+and do nmp start
